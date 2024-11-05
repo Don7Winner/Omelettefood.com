@@ -1,0 +1,60 @@
+@media (max-width: 1053px) {
+  .omelette-img {
+    height: 200px;
+    width: 100%;
+  }
+  .h-header {
+    font-weight: 700;
+    font-size: 1.6rem;
+  }
+  .section-PT ul {
+    padding: 0;
+  }
+  h3 {
+    font-size: 1.6rem;
+  }
+  .section-ingredient li {
+    margin-bottom: 0.5rem;
+    line-height: 1.5;
+  }
+}
+@media (max-width: 998px) {
+  main {
+    margin: 2rem 15rem;
+  }
+}
+@media (max-width: 768px) {
+  main {
+    margin: 2rem 10rem;
+  }
+}
+@media (max-width: 650px) {
+  main {
+    margin: 2rem 5rem;
+  }
+}
+@media (max-width: 425px) {
+  main {
+    margin: 2rem;
+  }
+}
+@media (max-width: 375px) {
+  main {
+    border-radius: 0;
+    margin: 0;
+  }
+  header {
+    padding: 0;
+  }
+  .h-header {
+    font-size: 2.4rem;
+    padding: 0 2rem;
+  }
+  .h-description {
+    padding: 0 2rem;
+    margin-bottom: 2rem;
+  }
+  .omelette-img {
+    border-radius: 0;
+  }
+}
